@@ -1,9 +1,10 @@
 # :wave: The Basics of GitHub
 
-Hey this is Sven.
+Hey this is Sven. feigaklaegkaelkgaeklgkaegjlakej
 
 ## 🤓 Course overview and learning outcomes
 
+vggg
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
 ## :octocat: Git and GitHub
